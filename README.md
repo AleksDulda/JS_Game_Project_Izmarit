@@ -15,7 +15,7 @@ BTU Mimar sinan kampüsünün E blok sigaraizmarit kutusunun yıkılmasıyla tü
 
 ### Oynanış
 
-Oynanış Videosu: https://www.youtube.com/watch?v=gxji2DtGdQ0
+Oynanış Videosu: https://youtu.be/1JFrTSsTg70
 
 - Ok yönleri karakterimizi sağ-sol yukarı-aşağı olarak haraket ettirmemizi sağlar.
 - T tuşu Karakterimizin ana özel gücüdür. Bu özel güç Ekrandaki tüm izmaritleri toplar. Sınırsız olarak kullanılabilir.
