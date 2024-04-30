@@ -4,7 +4,7 @@ JS ile yazılmış bir sigara izmariti toplayan kahramanın oyunudur.
 
 
 ### Link
-Oyunu Oynamak için: https://aleksdulda.serv00.net/
+Oyunu Oynamak için: https://webaleksdulda.serv00.net/
 
 
 
