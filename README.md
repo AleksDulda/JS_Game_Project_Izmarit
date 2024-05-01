@@ -28,8 +28,10 @@ Oynanış Videosu: https://youtu.be/1JFrTSsTg70
 
 ## Oyun içi Görüntü
 
-1) ![image](https://github.com/AleksDulda/JS_Game_Project/assets/139750907/41f09117-9b1e-4db9-a40a-3374cbdb1b42)
+1) ![image](https://github.com/AleksDulda/JS_Game_Project_Izmarit/assets/139750907/5df925b0-0b0b-4399-bfbf-95e77b53d7f8)
 
-2) ![image](https://github.com/AleksDulda/JS_Game_Project/assets/139750907/ee1fbd98-f161-48d3-81e6-2e6dbc72fc0e)
+
+2) ![asdasd](https://github.com/AleksDulda/JS_Game_Project_Izmarit/assets/139750907/dfc0f687-2c6e-4b66-bf14-48156673574b)
+
 
 
